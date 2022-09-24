@@ -36,7 +36,7 @@ export default function App() {
           <li>Make the ATM working for Deposit by swapping the views with screen</li>
           <li>Make the available currency count working</li>
           <li>Make the withdraw feature working</li>
-          <li>Use theme ui installed in this to make the ATM responsive</li>
+          <li>Use theme ui installed in this to make the ATM responsive using theme provider</li>
       </ul>
       <Box>
           <Grid gap={2} columns={2}>

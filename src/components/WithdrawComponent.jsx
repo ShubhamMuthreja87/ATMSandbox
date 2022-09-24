@@ -1,6 +1,6 @@
 import { Box, Grid, Text ,Button } from "theme-ui";
 export default function WithdrawComponent(){
-    return <>
-    <Text>Withdraw workflow</Text>
-    </>
+    return <Box>
+    <Text sx={{color:"#fff"}}>Withdraw workflow</Text>
+    </Box>
 }
